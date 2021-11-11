@@ -1,18 +1,48 @@
 {
-    "self_mode": false,
-	"autobio": false,
-	"antihidetag": true,
+
+    "self_mode": true,
+
+	"autobio": true,	"antihidetag": true,
+
 	"user_register": true,
-	"anti_delete" : false,
+
+	"antidelete" : false,
+
 	"anticall": true,
+
 	"prefix": ".",
+
 	"language":"ind",
-	"ownerNumber": "62887435047326",
-	"ownerNumberr": "62887435047326",
-	"cr": "@ZeeoneOfc",
-	"ownername": "ZeeoneOfc",
+
+	"ownerNumber": "62882007289925",
+
+	"ownerNumberr": "62882007289925",
+
+	"cr": "@KenzStore",
+
+	"yt":"KenzStore",
+
+	"grub": "kosongg",
+
+	"wa": "https://wa.me/62882007289925",
+
+	"donate": "62882007289925",
+
+	"ig": "rahasia_nation1",
+
+	"gt": "kenzgantengg",	
+
+	"ownername": "KenzGantengg",
+
 	"botname":"ΛᄂPΉΛ BӨƬ",
-	"thumb":"thumbnail_1.jpg",
-	"fakethumb":"thumbnail_1.jpg", 
-	"fake": " 「  ΛᄂPΉΛ BӨƬ  」\nCreated By @ZeeoneOfc"
+
+	"img":"https://e.top4top.io/p_2010lz9211.jpg",
+
+	"thumb":"IMG_20211001_074948_766-min.jpg",
+
+	"fakethumb":"IMG_20211001_074948_766-min.jpg", 
+
+	"fake": " 「  Alphabot  」\nCreated By @KenzStore"
+
 }
+
