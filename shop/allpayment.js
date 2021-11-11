@@ -8,18 +8,18 @@ return `PAYMENT BY ZEEONE OFC
 		
 *さ E-MONEY*
 1. GOPAY
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ KE OWNER
+		• OWNER
 2. OVO
-	ㅁ 0887 4350 47326
-		• EL*****TI
+	ㅁ OWNER DAH DI BILANG IN
+		• OWNER
 3. DANA
-	ㅁ 0887 4350 47326
-		• ZE**** **C
+	ㅁ OWNER NGAB HADEH
+		• OWNER
 
 *さ PULSA*
 
-Tidak tersedia
+0882007289925
 	
 Sebelum melakukan pembayaran ada baiknya anda menghubungi owner terlebih dahulu!
 `
