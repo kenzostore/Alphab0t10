@@ -3,8 +3,8 @@ return `PAYMENT BY ZEEONE OFC
 
 *さ BANK*
 1. BRI 
-	ㅁ 5074-01-003141-52-8
-		• R***A*DI
+	ㅁ DI OWNER YA
+		• SAYANG OWNER
 		
 *さ E-MONEY*
 1. GOPAY
